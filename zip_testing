@@ -1,2 +1,5 @@
-def zip(*iterables):
-    
+x = [1, 2, 3]
+y = ['a', 'b', 'c']
+result = zip(x, y)
+for item in result:
+    print(item)
