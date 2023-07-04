@@ -1,2 +1,2 @@
-summator = lambda x, y: x + y
-print(summator(13, 12))
+add = lambda x, y: x + y
+print(add(13, 12))
